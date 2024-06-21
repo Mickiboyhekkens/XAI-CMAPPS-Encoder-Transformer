@@ -1,5 +1,5 @@
 # XAI-CMAPPS-Encoder-Transformer
-explainable AI implemented for RUL prediction for the CMAPPS dataset, t-SNE and LIME are used for explainability, an Encoder Transformer model is used as prognostics model
+Explainable AI implemented for RUL prediction for the CMAPPS dataset, t-SNE and LIME are used for explainability, an Encoder Transformer model is used as prognostics model
 
 Adapted from: https://github.com/Ogunfool/EncoderTransformerArchitecture_CMAPPS.git
 
